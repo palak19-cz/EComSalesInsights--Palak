@@ -1,4 +1,4 @@
-Overview: EComSalesInsights is a comprehensive project focused on analyzing e-commerce sales data to provide actionable insights for businesses. Using Python and popular data analytics libraries, this project uncovers patterns, trends, and key metrics that drive sales performance and revenue growth.
+Overview: E-Commerce Sales Analysis is a comprehensive project focused on analyzing e-commerce sales data to provide actionable insights for businesses. Using Python and popular data analytics libraries, this project uncovers patterns, trends, and key metrics that drive sales performance and revenue growth.
 
 Key Features:
 
